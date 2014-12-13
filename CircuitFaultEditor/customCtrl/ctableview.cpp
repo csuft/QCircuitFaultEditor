@@ -54,7 +54,7 @@ CTableView::CTableView(QWidget *parent)
 	setColumnWidth(5, 60);
 	setColumnWidth(6, 60);
 	setColumnWidth(7, 60);
-	setColumnWidth(8, 60);
+	setColumnWidth(8, 40);
 	setColumnWidth(9, 130);
 
 	initialActions();

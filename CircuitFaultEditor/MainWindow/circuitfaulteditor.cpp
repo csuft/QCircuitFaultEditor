@@ -56,7 +56,7 @@ CircuitFaultEditor::CircuitFaultEditor(QWidget *parent)
 	m_saveWaveBtn->setFixedSize(85, 30);
 	m_saveWaveBtn->setObjectName("panelBtn");
 	m_saveWaveBtn->setCursor(Qt::PointingHandCursor);
-    m_randomGenerateBtn = new QPushButton(QStringLiteral("随机产生"), this);
+    m_randomGenerateBtn = new QPushButton(QIcon(":/pics/random"), QStringLiteral("随机产生"), this);
     m_randomGenerateBtn->setFixedSize(85, 30);
     m_randomGenerateBtn->setObjectName("panelBtn");
 	m_randomGenerateBtn->setDisabled(true);
@@ -74,7 +74,7 @@ CircuitFaultEditor::CircuitFaultEditor(QWidget *parent)
 	m_voltageValue = new QLabel(QStringLiteral("--"), this);
 	m_voltageValue->setObjectName("voltageValueLabel");
 	m_voltageValue->setFixedWidth(45);
-	m_moreWavesBtn = new QPushButton(QStringLiteral("更多波形>>"), this);
+	m_moreWavesBtn = new QPushButton(QStringLiteral("更多波形..."), this);
 	m_moreWavesBtn->setObjectName("panelBtn");
 	m_moreWavesBtn->setFixedSize(80, 25);
 	m_moreWavesBtn->setDisabled(true);

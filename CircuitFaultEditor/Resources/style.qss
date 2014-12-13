@@ -15,7 +15,7 @@ QGroupBox {
 }
 
 #lineEdit {
-	border: 1px solid rgb(51, 85, 41); 
+	border: 1px solid rgb(67, 67, 67); 
 	font-size: 11px;
 	border-radius: 3px;
 	background: white;	
@@ -30,30 +30,30 @@ QGroupBox {
 }
 
 CTableView {
-	border: 1px solid rgb(51, 85, 41);
+	border: 1px solid rgb(67, 67, 67);
 	font-size: 11px;
 }
 
 #wavePreview {
-	border: 1px solid rgb(51, 85, 41);
+	border: 1px solid rgb(67, 67, 67);
 }
 
 #panelBtn {
-	background: transparent;
-	color: rgb(164, 193, 156);
+	background: white;
+	color: #999;
 	font-size: 12px;
 	font-family: "sans-serif";
 	border-radius: 3px;
-	border: 1px solid rgb(51, 85, 41); 
+	border: 1px solid rgb(67, 67, 67); 
 }
 
 #panelBtn:hover {
-	background: rgb(90, 167, 45);
+	background: rgb(240, 240, 240);
 	color: white;
 }
 
 #panelBtn:disabled {
-	background: rgb(243, 250, 245);
+	background: rgb(246, 246, 246);
 }
 
 #panelBtn:pressed {
@@ -63,23 +63,23 @@ CTableView {
 
 #dispatchBtn {
 	font-size: 12px;
-	color: red;
-	background: white;
+	color: white;
+	background: red;
 	border: 1px solid rgb(250, 44, 20);
 	border-radius: 3px;
 }
 
 #dispatchBtn:hover{
-	background: rgb(250, 44, 20);
+	background: rgb(255, 10, 20);
 	color: white;
 }
 
 #dispatchBtn:disabled {
-	background: rbg(253, 157, 140);
+	background: rbg(255, 20, 20);
 }
 
 #dispatchBtn:pressed {
-	background: rgb(200, 44, 90);
+	background: rgb(255, 44, 40);
 	color: white;
 }
 
@@ -102,17 +102,17 @@ CTableView {
 }
 
 QTextEdit {
-	border: 1px solid rgb(51, 85, 41);
+	border: 1px solid rgb(67, 67, 67);
 	border-radius: 3px;
 	font-size: 11px;
 }
 
 QTextEdit:hover {
-	border: 1px solid rgb(164, 193, 156);
+	border: 1px solid rgb(240, 240, 240);
 }
 
 QComboBox {
-	border: 1px solid rgb(51, 85, 41);
+	border: 1px solid rgb(67, 67, 67);
 	background: transparent;
 	border-radius: 3px;
 	height: 25px;
@@ -133,8 +133,7 @@ QComboBox::drop-down {
 }
 
 QHeaderView::section {
-
-	color: green;
+	color: #999;
 	padding-left: 4px;
 	border: none;
 	min-height: 25px;
@@ -239,13 +238,13 @@ QMenu::item:selected:!enabled{
 }
 
 #spinBox {
-	border: 1px solid rgb(51, 85, 41); 
+	border: 1px solid rgb(67, 67, 67); 
 	border-radius: 3px;
 	background: white;
 }
 
 #spinBox:disabled {
-	background: rgb(241, 253, 245);
+	background: rgb(241, 241, 241);
 }
 
 #voltageValueLabel {

@@ -32,6 +32,7 @@
         <file alias="login_head">images/head.png</file>
         <file alias="login_bg">images/login_bg.png</file>
         <file alias="login_btn">images/login.png</file>
+        <file alias="random">images/random.png</file>
     </qresource>
     <qresource prefix="/styles">
         <file alias="global">style.qss</file>
