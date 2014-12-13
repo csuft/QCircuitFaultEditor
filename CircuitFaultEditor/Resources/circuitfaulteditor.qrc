@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="background">images/background.png</file>
+        <file alias="close">images/close.png</file>
+        <file alias="close_hover">images/close_hover.png</file>
+        <file alias="close_pressed">images/close_pressed.png</file>
+        <file alias="min">images/min.png</file>
+        <file alias="min_hover">images/min_hover.png</file>
+        <file alias="min_pressed">images/min_pressed.png</file>
+        <file alias="down-arrow">images/arrowDown.png</file>
+        <file alias="about">images/about.png</file>
+        <file alias="delete">images/delete.png</file>
+        <file alias="help">images/help.png</file>
+        <file alias="newSolution">images/new.png</file>
+        <file alias="preview">images/play.png</file>
+        <file alias="saveSolution">images/save.png</file>
+        <file alias="saveDesc">images/saveEdit.png</file>
+        <file alias="dispatch">images/send.png</file>
+        <file alias="app">images/app.ico</file>
+        <file alias="reset">images/reset.png</file>
+        <file alias="error">images/error.png</file>
+        <file alias="ok">images/ok.png</file>
+        <file alias="question">images/question.png</file>
+        <file alias="warning">images/warning.png</file>
+        <file alias="saveWave">images/download.png</file>
+        <file alias="power">images/power.png</file>
+        <file alias="addNode">images/addNode.png</file>
+        <file alias="delNode">images/delNode.png</file>
+        <file alias="flag">images/flag.png</file>
+        <file alias="refresh">images/refresh.png</file>
+        <file alias="power_hover">images/power1.png</file>
+        <file alias="login_head">images/head.png</file>
+        <file alias="login_bg">images/login_bg.png</file>
+        <file alias="login_btn">images/login.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file alias="global">style.qss</file>
+    </qresource>
+</RCC>
