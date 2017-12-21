@@ -13,28 +13,28 @@
 
 - 登录界面
 
-![login.png](https://github.com/csuft/QCircuitFaultEditor/raw/master/CircuitFaultEditor/screenshots/login.png "使用前先登录")
+![login.png](https://raw.githubusercontent.com/csuft/QCircuitFaultEditor/master/screenshots/login.png "使用前先登录")
 
 - 主窗体
 
-![login.png](https://github.com/csuft/QCircuitFaultEditor/raw/master/CircuitFaultEditor/screenshots/windowa.png "主窗体")
+![login.png](https://raw.githubusercontent.com/csuft/QCircuitFaultEditor/master/screenshots/windowa.png "主窗体")
 
 - 创建新的故障方案
 
-![login.png](https://github.com/csuft/QCircuitFaultEditor/raw/master/CircuitFaultEditor/screenshots/windowb.png "使用默认配置创建新故障方案")
+![login.png](https://raw.githubusercontent.com/csuft/QCircuitFaultEditor/master/screenshots/windowb.png "使用默认配置创建新故障方案")
 
 - 编辑方案
 
-![login.png](https://github.com/csuft/QCircuitFaultEditor/raw/master/CircuitFaultEditor/screenshots/windowc.png "编辑方案中的结点参数")
+![login.png](https://raw.githubusercontent.com/csuft/QCircuitFaultEditor/master/screenshots/windowc.png "编辑方案中的结点参数")
 
 - 设置波形参数
 
-![login.png](https://github.com/csuft/QCircuitFaultEditor/raw/master/CircuitFaultEditor/screenshots/windowd.png "设置波形参数")
+![login.png](https://raw.githubusercontent.com/csuft/QCircuitFaultEditor/master/screenshots/windowd.png "设置波形参数")
 
 - 波形设置和添加新方案
 
-![login.png](https://github.com/csuft/QCircuitFaultEditor/raw/master/CircuitFaultEditor/screenshots/wave_settings.png "波形参数设置")
-![login.png](https://github.com/csuft/QCircuitFaultEditor/raw/master/CircuitFaultEditor/screenshots/new_solution.png "添加故障方案")
+![login.png](https://raw.githubusercontent.com/csuft/QCircuitFaultEditor/master/screenshots/wave_settings.png "波形参数设置")
+![login.png](https://raw.githubusercontent.com/csuft/QCircuitFaultEditor/master/screenshots/new_solution.png "添加故障方案")
 
 ## 更多资料
 
